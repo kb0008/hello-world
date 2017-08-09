@@ -1,3 +1,3 @@
 # hello-world
 learn
-just learning abour github thanks
+just learning about github thanks
